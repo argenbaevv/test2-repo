@@ -1,1 +1,13 @@
-Hello GitHub!
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoalls
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
